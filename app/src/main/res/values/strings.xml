@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RestProject</string>
+    <string name="author_string">%s</string>
+    <string name="name_string">%s</string>
+</resources>
